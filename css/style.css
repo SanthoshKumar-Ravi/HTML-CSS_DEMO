@@ -1,0 +1,105 @@
+body{
+	margin:0;
+}
+li{
+	display:inline;
+	margin-top: 10px;
+}
+.heading{
+	font-family: 'Fjalla One', sans-serif;
+	color:#42f468;
+	text-shadow: 1px 3px #b3b3b3;
+	text-align: center;
+
+	padding-left: 7px;
+}
+.nav_icon li a{
+	text-decoration: none;
+	padding-left:18px;
+	padding-right:10px;
+	padding-top:10px;
+	background-color: orange;
+	color:black;
+	font-family: 'UnifrakturCook', cursive;
+	font-size: 15px;
+}
+li a:hover{
+	background-color: white;
+}
+.column_2{
+	margin-bottom: 2px;
+}
+footer{
+	
+	border:10px solid #ffcc66;
+}
+.aside_table{
+	style="background-color: #A3FFC2"
+}
+.media_icon,.copyrights{
+	margin-top: -9px;
+}
+.copyrights{
+	font-family: 'Montez', cursive;
+	font-size: 18px;	
+}
+.table_heading{
+	font-family: 'Montez', cursive;
+	font-size: 20px;	
+}
+nav
+{
+	margin-left:20px;
+	margin-right: 20px;
+}
+.tagline{
+	margin:auto;
+	width:200px;
+}
+.header{
+	position:fixed;
+	background-color: white;
+
+}
+.second{
+	margin-bottom: 20px;
+}
+.hero_image{
+padding-top:100px;
+width:960px;
+height:400px;
+}
+.icon{
+	width:20px;
+	height:20px;
+}
+
+.quotes{
+	font-family: 'Montez', cursive;
+	font-size: 20px;
+	letter-spacing:3px;
+	text-align:center;
+	color:#4286f4;
+}
+
+.content{
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	text-align:justify;
+}
+.tag_name{
+	font-family: 'UnifrakturCook', cursive;
+	font-size: 20px;
+	text-align:center;
+	color:#00ffff;
+
+}
+.marquee{
+	float:left;
+}
+.aside{
+	float:right;
+}
+.media_icon a{
+	color:black;
+}
